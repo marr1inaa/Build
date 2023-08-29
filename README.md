@@ -2,7 +2,7 @@
 
 Repository of tools to build ACIs for various projects.
 
-## Status of each project
+## Status of each projecth
 
 ### Docker her
 
