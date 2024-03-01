@@ -1,4 +1,4 @@
-# build-repositorysds
+# build-repositorysd
 
 Repository of tools to build ACIs for various projects.
 
